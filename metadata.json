@@ -1,0 +1,5 @@
+{
+  "name": "GST Invoice Generator",
+  "description": "A modern web application to generate GST-compliant invoices with ease. Features a clean landing page, user-friendly sign-up and login forms, and a streamlined interface for creating and managing invoices for your business.",
+  "requestFramePermissions": []
+}
